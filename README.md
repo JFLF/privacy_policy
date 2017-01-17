@@ -9,7 +9,7 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1"><b>Privacy Policy</b></span></p>
+<p class="p1"><span class="s1"><br><br><br><b>Privacy Policy</b></span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p3"><span class="s1"><b>Overview</b></span></p>
 <p class="p4"><span class="s1">This Privacy Policy describes the information collected by Животные JFLF: домашние и дикие, игры и викторины (“Животные JFLF: домашние и дикие, игры и викторины", “we,” “us”, “our”) via our mobile applications, website and how we use that information.</span></p>
