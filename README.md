@@ -12,7 +12,7 @@
 <p class="p1"><span class="s1"><br><br><br><b>Privacy Policy</b></span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p3"><span class="s1"><b>Overview</b></span></p>
-<p class="p4"><span class="s1">This Privacy Policy describes the information collected by Животные JFLF: домашние и дикие, игры и викторины (“Животные JFLF: домашние и дикие, игры и викторины", “we,” “us”, “our”) via our mobile applications, website and how we use that information.</span></p>
+<p class="p4"><span class="s1">This Privacy Policy describes the information collected by "Животные JFLF: домашние и дикие, игры и викторины", "Animals JFLF: domestic wild quiz games for kids" (“Животные JFLF: домашние и дикие, игры и викторины", "Animals JFLF: domestic wild quiz games for kids", “we,” “us”, “our”) via our mobile applications, website and how we use that information.</span></p>
 <p class="p3"><span class="s1"><b>We don’t collect personal information from children through our Applications or website.</b></span></p>
 <p class="p4"><span class="s1">When you download and use our mobile applications, we don’t require you to provide any information and we don’t collect any information about you or your device, except for non-personal information about the duration the App is used and how the App is used, such as actions taken within our mobile applications.<span class="Apple-converted-space"> </span></span></p>
 <p class="p3"><span class="s1"><b>Support requests can be made via email</b></span></p>
@@ -24,6 +24,6 @@
 <p class="p3"><span class="s1"><b>Contact Us</b></span></p>
 <p class="p4"><span class="s1">If you have any questions or concerns regarding this Privacy Policy, please send us an email: <a href="mailto:JFLFTeam@gmail.com"><span class="s2">JFLFTeam@gmail.com</span></a>.</span></p>
 <p class="p2"><span class="s1"></span><br></p>
-<p class="p4"><span class="s1">Updated 17 January, 2017</span></p>
+<p class="p4"><span class="s1">Updated 10 February, 2017</span></p>
 </body>
 </html>
